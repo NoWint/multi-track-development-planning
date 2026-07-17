@@ -1152,5 +1152,5 @@ Initial release. Covered:
 **When in doubt, re-read Sections 2–5. The mechanisms there neutralize every failure mode in Section 1.**
 
 **Author**: NoWint — [https://github.com/NoWint](https://github.com/NoWint)
-**License**: MIT (inherit from project)
+**License**: AGPL-3.0
 **Version**: 1.1.0
